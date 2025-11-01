@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="300" height="150">
-  <!-- Sun -->
-  <circle cx="200" cy="55" r="22" fill="#FBBF24" />
 
-  <!-- Clouds -->
-  <g fill="#BFDBFE">
-    <ellipse cx="135" cy="55" rx="25" ry="15" />
-    <ellipse cx="115" cy="60" rx="15" ry="10" />
-    <ellipse cx="265" cy="55" rx="25" ry="15" />
-    <ellipse cx="285" cy="60" rx="15" ry="10" />
-  </g>
-
-  <!-- Mountains -->
-  <path d="M60 150 Q200 40 340 150 Z" fill="#3B82F6" />
-  <path d="M20 150 Q160 80 300 150 Z" fill="#60A5FA" />
-</svg>
